@@ -1,5 +1,5 @@
 #include <stdio.h>
-//求最大公因數
+//求最大公因數https://e-tutor.itsa.org.tw/e-Tutor/mod/programming/view.php?id=6903
 int main(){
     int num1, num2;
     scanf("%d %d", &num1, &num2);
